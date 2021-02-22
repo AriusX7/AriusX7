@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Arius</h1>
+<p align="center">
+A software developer working on various open-source projects.
+</p>
 
-<!--
-**AriusX7/AriusX7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  AriusX7 <a href="https://twitter.com/AriusX7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ariusx7" height="30" width="40" /></a>
+  •
+  <a href="https://discord.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="5544" height="30" width="40" /></a>Arius#5544
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariusx7&show_icons=true&locale=en&layout=compact&theme=calm" alt="ariusx7" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariusx7&show_icons=true&locale=en&theme=calm&custom_title=GitHub Stats" alt="ariusx7" />
