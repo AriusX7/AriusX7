@@ -11,5 +11,5 @@ A software developer working on various open-source projects.
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariusx7&show_icons=true&locale=en&layout=compact&theme=calm" alt="ariusx7" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariusx7&show_icons=true&locale=en&theme=calm&custom_title=GitHub Stats" alt="ariusx7" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariusx7&show_icons=true&locale=en&layout=compact&theme=radical" alt="ariusx7" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ariusx7&show_icons=true&locale=en&theme=radical&custom_title=GitHub Stats" alt="ariusx7" /></p>
