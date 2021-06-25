@@ -4,9 +4,9 @@ A software developer working on various open-source projects.
 </p>
 
 <p align="center">
-  AriusX7 <a href="https://twitter.com/AriusX7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ariusx7" height="30" width="40" /></a>
+  AriusX7 <a href="https://twitter.com/AriusX7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" alt="ariusx7" height="30" width="40" /></a>
   •
-  <a href="https://discord.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="5544" height="30" width="40" /></a>Arius#5544
+  <a href="https://discord.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg" alt="5544" height="30" width="40" /></a>Arius#5544
 </p>
 
 ---
